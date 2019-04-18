@@ -1,0 +1,17 @@
+C:\Users\Nemanja\Desktop\projects\Multilayer-Architecture\MultilayerArchitecture\MultilayerArchitecture\bin\Debug\Studije.mdf
+C:\Users\Nemanja\Desktop\projects\Multilayer-Architecture\MultilayerArchitecture\MultilayerArchitecture\bin\Debug\Studije_log.ldf
+C:\Users\Nemanja\Desktop\projects\Multilayer-Architecture\MultilayerArchitecture\MultilayerArchitecture\bin\Debug\MultilayerArchitecture.exe.config
+C:\Users\Nemanja\Desktop\projects\Multilayer-Architecture\MultilayerArchitecture\MultilayerArchitecture\bin\Debug\MultilayerArchitecture.exe
+C:\Users\Nemanja\Desktop\projects\Multilayer-Architecture\MultilayerArchitecture\MultilayerArchitecture\bin\Debug\MultilayerArchitecture.pdb
+C:\Users\Nemanja\Desktop\projects\Multilayer-Architecture\MultilayerArchitecture\MultilayerArchitecture\bin\Debug\EntityFramework.dll
+C:\Users\Nemanja\Desktop\projects\Multilayer-Architecture\MultilayerArchitecture\MultilayerArchitecture\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nemanja\Desktop\projects\Multilayer-Architecture\MultilayerArchitecture\MultilayerArchitecture\bin\Debug\EntityFramework.xml
+C:\Users\Nemanja\Desktop\projects\Multilayer-Architecture\MultilayerArchitecture\MultilayerArchitecture\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nemanja\Desktop\projects\Multilayer-Architecture\MultilayerArchitecture\MultilayerArchitecture\obj\Debug\MultilayerArchitecture.csprojAssemblyReference.cache
+C:\Users\Nemanja\Desktop\projects\Multilayer-Architecture\MultilayerArchitecture\MultilayerArchitecture\obj\Debug\MultilayerArchitecture.Form1.resources
+C:\Users\Nemanja\Desktop\projects\Multilayer-Architecture\MultilayerArchitecture\MultilayerArchitecture\obj\Debug\MultilayerArchitecture.Properties.Resources.resources
+C:\Users\Nemanja\Desktop\projects\Multilayer-Architecture\MultilayerArchitecture\MultilayerArchitecture\obj\Debug\MultilayerArchitecture.csproj.GenerateResource.cache
+C:\Users\Nemanja\Desktop\projects\Multilayer-Architecture\MultilayerArchitecture\MultilayerArchitecture\obj\Debug\MultilayerArchitecture.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja\Desktop\projects\Multilayer-Architecture\MultilayerArchitecture\MultilayerArchitecture\obj\Debug\MultilayerArchitecture.csproj.CopyComplete
+C:\Users\Nemanja\Desktop\projects\Multilayer-Architecture\MultilayerArchitecture\MultilayerArchitecture\obj\Debug\MultilayerArchitecture.exe
+C:\Users\Nemanja\Desktop\projects\Multilayer-Architecture\MultilayerArchitecture\MultilayerArchitecture\obj\Debug\MultilayerArchitecture.pdb
